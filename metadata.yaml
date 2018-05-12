@@ -1,0 +1,43 @@
+_repo: The-EddyA-Novel-of-To-day_43508
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weber-Ditzler, Charlotte
+    aliases:
+    - Weber-Ditzler, Ch.
+    - Ditzler, Charlotte Weber
+    - Ditzler, Ch. W.
+    - Weber, Charlotte
+    birthdate: 1877
+    deathdate: 1958
+    gutenberg_agent_id: '36198'
+    url: http://www.gutenberg.org/2009/agents/36198
+covers:
+- cover_type: archival
+  image_path: 43508-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cullen, Clarence Louis
+    alias: Cullen, Clarence L.
+    deathdate: 1922
+    gutenberg_agent_id: '38867'
+    url: http://www.gutenberg.org/2009/agents/38867
+description: ''
+gutenberg_issued: '2013-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mistresses -- Fiction'
+- !lcsh 'Divorced women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+title: 'The Eddy: A Novel of To-day'
+url: http://www.gutenberg.org/ebooks/43508
