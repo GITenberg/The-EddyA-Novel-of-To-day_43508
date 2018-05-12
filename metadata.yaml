@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '38867'
     url: http://www.gutenberg.org/2009/agents/38867
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43508#The-EddyA-Novel-of-To-day
 gutenberg_issued: '2013-08-19'
 gutenberg_type: Text
 identifiers:
